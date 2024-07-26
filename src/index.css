@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    @font-face {
+      font-family: 'ReadMeFont';
+      src: url('../src/assets/fonts/BillionDreams_PERSONAL.ttf') format('woff2');
+      font-weight: bold;
+      font-style: normal;
+    }
+  }

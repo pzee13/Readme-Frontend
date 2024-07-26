@@ -8,10 +8,14 @@ export default {
     extend: {
       colors: {
        baseblue: "#2A63B9",
-       baseorange:"#E86D18"
+       baseorange:"#E86D18",
+       buttonblue:"#0B8CE9"
       },
       borderRadius: {
         '8xl': '3rem', // Example: Add a custom value
+      },
+      fontFamily: {
+        readme: ['ReadMeFont', 'sans-serif'], // Define the custom font here
       },
      
     },
