@@ -572,7 +572,7 @@
 
 import React, { useState } from "react";
 import { FaGoogle } from "react-icons/fa";
-import LoginImage from '../../components/LoginImage';
+import LoginImage from '../../components/authComponents/LoginImage';
 
 // Define the form data interface
 interface FormData {

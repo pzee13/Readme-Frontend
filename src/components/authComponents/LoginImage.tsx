@@ -1,4 +1,4 @@
-import SignUpImage from '../assets/images/SignUp Image.png';
+import SignUpImage from '../../assets/images/SignUp Image.png'
 
 const LoginImage = () => {
   return (

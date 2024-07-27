@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import { ToastContainer } from "react-toastify";
 import UserRoutes from './routes/UserRoutes';
 import "react-toastify/dist/ReactToastify.css";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+
 import './App.css'
 
 function App() {

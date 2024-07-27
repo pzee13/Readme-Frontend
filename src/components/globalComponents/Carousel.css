@@ -1,0 +1,9 @@
+/* Add to your Carousel.css or appropriate CSS file */
+.carousel-container {
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .slick-slide {
+    margin: 0 ; /* Adjust margin if needed to reduce gap */
+  }
+  
